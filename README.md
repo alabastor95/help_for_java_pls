@@ -1,0 +1,1 @@
+Ez egy kezdetleges demo ami hasonlít a saját projektemhez (sajnos azt nem tölthetem fel). Azt akarom, hogy amikor futtatom a run_this.bat-el a jar-t, akkor az be tudja olvasni a mellette lévő file-t anélkül, hogy annak a bat-hez igazítanánk az útvonalát.
